@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="25BCF0C1771C09FF3E3F1FAC"></guid>
+            <title text="scala"></title>
+            <style key="system.spring-levels"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="127" x="138.00" y="73.21"></scrollstate>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="OwA_UFVEcHoVrhRgaw_iJQ" x="216.47" y="281.55" palette="0" colorinfo="-1" text="scala ">
+                <style>
+                    <fillcolor r="0" g="212" b="184"></fillcolor>
+                    <strokecolor r="0" g="106" b="92"></strokecolor>
+                </style>
+                <fillcolor r="0" g="212" b="184"></fillcolor>
+                <strokecolor r="0" g="106" b="92"></strokecolor>
+            </topic>
+            <topic id="1" parent="0" guid="FVbelnT8yH0V2EavTWO0QA" x="312.31" y="185.68" palette="0" colorinfo="-1" text="Hjah ">
+                <style>
+                    <fillcolor r="149" g="211" b="57"></fillcolor>
+                    <strokecolor r="76" g="109" b="25"></strokecolor>
+                </style>
+                <fillcolor r="149" g="211" b="57"></fillcolor>
+                <strokecolor r="76" g="109" b="25"></strokecolor>
+            </topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

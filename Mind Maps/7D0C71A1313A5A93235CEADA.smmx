@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="7D0C71A1313A5A93235CEADA"></guid>
+            <title text="中心主题"></title>
+            <style key="system.spring-levels"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="114" x="73.46" y="30.96"></scrollstate>
+            <selection guid="DcUdcD_73GJLWRAGXMKPGw" type="node" id="0"></selection>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="DcUdcD_73GJLWRAGXMKPGw" x="400.00" y="400.00" text="中心主题"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

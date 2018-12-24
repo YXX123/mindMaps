@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="09383CBA4DF97EC3231E52B6"></guid>
+            <title text="Monads, is a type"></title>
+            <style key="system.bright-palette"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="100" x="262.16" y="-106.81"></scrollstate>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="cGwmYk6waoorX9sZe60tpQ" x="391.50" y="204.27" palette="1" colorinfo="1" text="Monads, is a type"></topic>
+            <topic id="1" parent="0" x="525.00" y="0.24" palette="2" colorinfo="2" text="map"></topic>
+            <topic id="2" parent="0" guid="Cys551TuxmxWBOfRCDQvQQ" x="582.98" y="112.28" palette="3" colorinfo="3" text="flatmap"></topic>
+            <topic id="3" parent="0" guid="W6ynwTzr5W4LSFy4LrndDw" x="589.82" y="190.26" palette="4" colorinfo="4" text="Unit"></topic>
+            <topic id="4" parent="0" guid="bIA0EjxB92kyfhU7WhAWoA" x="326.34" y="349.97" palette="5" colorinfo="5" text="three laws"></topic>
+            <topic id="5" parent="4" guid="ZBjnOizYtTR8GeKPN8FDog" x="596.84" y="297.23" text="associativity: opt flatmap f flatmap g= opt flatmap (f flatmap g)"></topic>
+            <topic id="6" parent="5" guid="NhDx7koTYVJa35ZYJn0YUA" x="762.92" y="233.48" text="用处是for的多重循环可以变成一个循环"></topic>
+            <topic id="7" parent="4" guid="Vl9wA0n9oYVmfmr5IBHk1Q" x="601.02" y="378.25" text="Left unit: unit(x) flatmap f = f(x)：其实就是f(x)"></topic>
+            <topic id="8" parent="7" guid="GMPL3QY_cXIiKkX1I-8FxA" x="760.60" y="440.63" text="反例： Try(expr) flatMap f != f(expr)"></topic>
+            <topic id="9" parent="4" guid="fub2oBvMAbQqtNfTFwyUew" x="444.32" y="444.16" text="Right unit: m flatMap unit =m，转回去了"></topic>
+            <topic id="10" parent="9" x="508.19" y="501.12" text="用处是：f(x&lt;-m) yield x == m"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

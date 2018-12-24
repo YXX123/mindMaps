@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="07F5B61E6223D6574558ECF7"></guid>
+            <title text="scala"></title>
+            <style key="system.spring-levels"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="114" x="36.93" y="45.96"></scrollstate>
+            <selection guid="LNOxJE79cattMBO7SKi4ZQ" type="node" id="6"></selection>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="ddR0TC5KJaQomhuNBm5KJA" x="222.53" y="382.91" text="scala "></topic>
+            <topic id="1" parent="0" guid="NEwZh3sodAhVoa7pWnVoRw" x="424.32" y="131.37" text="Book1:functional\Nprograming in scala"></topic>
+            <topic id="2" parent="0" x="464.42" y="261.01" text="Book:scala编程"></topic>
+            <topic id="3" parent="0" guid="AoMQxCi60IRG6aG1Oxb85Q" x="474.32" y="391.18" text="youtube :Functional\NProgramming Principles in\NScala,对应book1的第一部分"></topic>
+            <topic id="4" parent="0" guid="VUxv7RmE0a8ZIKL7GlfpTw" x="482.10" y="504.24" text="Youtube:Functional Program Design in Scala：对应book1的第三部分"></topic>
+            <topic id="5" parent="0" guid="Z5wJ3HODyZ9ThC31f6Sl4g" x="427.79" y="640.38" text="Youtube:Parallel programming：对应book1的第二部分"></topic>
+            <topic id="6" parent="0" guid="LNOxJE79cattMBO7SKi4ZQ" x="73.18" y="706.26" text="Book1的第四部分是：effects scala\N在youtube上搜索就可以了"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

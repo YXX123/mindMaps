@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="5B3BB50974FD0DA512407B2D"></guid>
+            <title text="Bitcoin decentralization,lecture2"></title>
+            <style key="system.bright-palette"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="100" x="-222.66" y="215.77"></scrollstate>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="X7yOcjh-a8JZVXs2fUGhHA" x="178.00" y="104.52" palette="1" colorinfo="1" text=" Bitcoin decentralization,lecture2"></topic>
+            <topic id="1" parent="0" guid="N9P7_RELFk0avskhR4d3PA" x="469.78" y="-26.03" palette="2" colorinfo="2" text="p2p网络"></topic>
+            <topic id="2" parent="0" x="428.93" y="-138.22" palette="3" colorinfo="3" text="mining "></topic>
+            <topic id="3" parent="0" guid="MVvvUBPXbmlaXQupCTe3Yw" x="493.41" y="50.20" palette="4" colorinfo="4" text="软件更新"></topic>
+            <topic id="4" parent="0" guid="Px32FyN9oqdicjO3SUH6aA" x="198.10" y="192.32" palette="5" colorinfo="5" text="consensus"></topic>
+            <topic id="5" parent="4" guid="OuJc81NOBj9AB-M1KtQ_7w" x="83.97" y="246.89" text="Decide on same value"></topic>
+            <topic id="6" parent="4" guid="Nj6x22KjEWs7V8WhOEFnng" x="225.84" y="256.77" text="Proposed by\Ncorrect node"></topic>
+            <topic id="7" parent="4" guid="Pd7GdDBU00ZKgeLLHZtU5g" x="145.34" y="317.89" text="Consensus is hard"></topic>
+            <topic id="8" parent="7" guid="NOJ0TzWbvyRoLrJDZj5jnw" x="42.12" y="375.86" text="Nodes crash "></topic>
+            <topic id="9" parent="7" x="121.34" y="416.61" text="Nodes  malicious"></topic>
+            <topic id="10" parent="7" guid="aNM_CSPXXgEa3PYCIKc7Bg" x="265.66" y="414.71" text="Network imperfect"></topic>
+            <topic id="11" parent="10" guid="EQxOoSn5cHplhV4pR0sAfA" x="451.06" y="489.21" text="Not connected"></topic>
+            <topic id="12" parent="10" guid="SXMtjUKLvexvdhsDCJEjpA" x="352.51" y="528.38" text="Faults "></topic>
+            <topic id="13" parent="10" guid="ZglglFHoTrpR0x4MdK9vLQ" x="231.77" y="524.56" text="No global time"></topic>
+            <topic id="14" parent="10" guid="f87BRj2-SGFp8Y1FOrEeOg" x="301.76" y="598.06" text="拜占庭将军问题，和FLP原理"></topic>
+            <topic id="15" parent="0" guid="DJyB5SDdI8t_jGgaSntIWQ" x="393.22" y="160.93" palette="6" colorinfo="6" text="identity"></topic>
+            <topic id="16" parent="15" x="519.36" y="194.00" text="Pragmatic: some\Nnodes need"></topic>
+            <topic id="17" parent="15" x="536.07" y="254.81" text="Less than 50%\Nmalicious"></topic>
+            <topic id="18" parent="0" guid="UTH3EUoOSuZoFp1AOgU2Gg" x="448.59" y="314.81" palette="7" colorinfo="7" text="Bitcoin have\Nno identity"></topic>
+            <topic id="19" parent="18" guid="OI9SZkLbI2QJBoDWAgJ_9A" x="617.13" y="327.23" text="P2p sybil attack"></topic>
+            <topic id="20" parent="18" guid="BWbhUHh8m9kKk6OYa3BB5A" x="608.73" y="374.17" text="Pseudonymity\Nis the goal"></topic>
+            <topic id="21" parent="0" guid="SmTqk1xmwaVgH7ESSjOr2Q" x="-11.13" y="-29.59" palette="2" colorinfo="2" text="Consensus algthm"></topic>
+            <topic id="22" parent="21" guid="GiUKBkoRPlcE5MoTKzFYpw" x="-47.24" y="-136.17" text="New trans to all nodes"></topic>
+            <topic id="23" parent="21" guid="dAqu0WpqKD1yfFkkAKcwtw" x="-178.75" y="-84.67" text="Each node collects\Ntrans to block"></topic>
+            <topic id="24" parent="21" guid="PBcMJDM5FlAWfnk0Kfy1DA" x="-279.53" y="-30.53" text="A random node\Nbroadcast block"></topic>
+            <topic id="25" parent="21" guid="C0dMCHIIwT5LInkQXHlDGQ" x="-303.22" y="34.64" text="Other nodes\Naccept block valid"></topic>
+            <topic id="26" parent="0" guid="Niypk3Eq6lVMxNJCbrv7-Q" x="176.58" y="-41.58" palette="3" colorinfo="3" text="Double spending"></topic>
+            <topic id="27" parent="0" guid="NAYNuVXLUxhwvnvtOWzvCQ" x="214.77" y="-186.36" palette="4" colorinfo="4" text="奖励是可以的，但是惩罚不行"></topic>
+            <topic id="28" parent="0" guid="Tkfu8XtSH4Yk3TDuGKzZhA" x="-144.34" y="122.64" palette="5" colorinfo="5" text="3 question"></topic>
+            <topic id="29" parent="28" x="-276.60" y="130.08" text="how to pick a\Nrandom node"></topic>
+            <topic id="30" parent="28" x="-285.77" y="183.88" text="免费问题太多人了"></topic>
+            <topic id="31" parent="28" x="-285.77" y="227.26" text="sybil attack"></topic>
+            <topic id="32" parent="0" guid="V7jhKwT84gBi4IVecd3rMQ" x="-143.50" y="292.24" palette="7" colorinfo="7" text="pow"></topic>
+            <topic id="33" parent="32" guid="Tw4gV2fFT3EdD0PZQxjPKA" x="-267.96" y="298.18" text="Difficult to compute"></topic>
+            <topic id="34" parent="32" guid="Ui93rg-LnP1Dv__fXXbDtg" x="-295.99" y="350.49" text="Recalculate the target\Nervey two weeks,mean time= 10minutes/ fraction of hash power"></topic>
+            <topic id="35" parent="32" guid="AZReOw7iePA58AbQPatqYA" x="-295.99" y="400.32" text="easy to verify"></topic>
+            <topic id="36" parent="0" guid="QhuPQFBugARnqB9seEg40w" x="-88.08" y="500.26" palette="2" colorinfo="2" text="three type of consensus"></topic>
+            <topic id="37" parent="36" guid="QZlqWTRs8a5nBDTNdZ94Eg" x="-244.80" y="539.84" text="Value, amount of bitcoin,diffcuilty"></topic>
+            <topic id="38" parent="36" guid="CjhEx1fCsLovDGcbWIAzuA" x="-214.26" y="604.63" text="state"></topic>
+            <topic id="39" parent="36" guid="UxTQQFPpmAlxLQ09Ks2xaw" x="-204.37" y="678.58" text="rules"></topic>
+            <topic id="40" parent="0" guid="WOZ6CVQNkpscq5ydJ_SaYA" x="13.72" y="595.02" palette="3" colorinfo="3" text="bootstrap"></topic>
+            <topic id="41" parent="40" guid="O9LiDDm64HZrDWmJDgJZuw" x="-74.93" y="635.81" text="security"></topic>
+            <topic id="42" parent="40" guid="SUZ9cy7NaWhreR1xStrbrg" x="-87.17" y="690.26" text="Value of currency"></topic>
+            <topic id="43" parent="40" x="-41.79" y="746.47" text="Health of mining\Necosystem"></topic>
+            <topic id="44" parent="0" guid="Pa_iWCVpJEEIhkYOf8txmQ" x="147.91" y="660.38" palette="5" colorinfo="5" text="51%攻击">
+                <parent-relation guid="ddekRXAuZXp4E6psN3EOng"></parent-relation>
+            </topic>
+            <topic id="45" parent="44" guid="JJtXKV8X3zktEIawLtOb8A" x="61.00" y="698.43" text="不能偷bitcoin"></topic>
+            <topic id="46" parent="44" guid="NtqP9Fwc7cwHU8-oCe9gNA" x="85.85" y="805.22" text="能够抑制一些交易到块上，但是不能抑制交易的p2p传播"></topic>
+            <topic id="47" parent="44" guid="MAaF1XiA3OU0vRGgCOz_3w" x="100.57" y="890.07" text="不能修改区块奖励"></topic>
+            <topic id="48" parent="44" guid="TI5vgFForj0w4Zo_CGFRjQ" x="233.36" y="890.62" text="存在双花攻击"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

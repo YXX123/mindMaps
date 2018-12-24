@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="7E1D69393EE26F037C020F76"></guid>
+            <title text="lecture3"></title>
+            <style key="system.bright-palette"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="100" x="-110.85" y="-92.47"></scrollstate>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="SNknUzjwTr5atKr7JhCZDA" x="122.16" y="192.72" palette="1" colorinfo="1" text=" lecture3"></topic>
+            <topic id="1" parent="0" x="275.22" y="-4.10" palette="2" colorinfo="2" text="input,output"></topic>
+            <topic id="2" parent="0" x="242.16" y="-67.09" palette="3" colorinfo="3" text="Pay to hash "></topic>
+            <topic id="3" parent="0" guid="T4OggDNovVsZYM13T1URhw" x="325.30" y="66.13" palette="4" colorinfo="4" text="Proof of burn"></topic>
+            <topic id="4" parent="0" guid="Nlxm3CFGhIpexe7bcFualw" x="275.71" y="246.82" palette="5" colorinfo="5" text="Middle party problem"></topic>
+            <topic id="5" parent="4" guid="XbeOI1zjWBQvPgmaWbmdmQ" x="421.40" y="115.66" text="Escrow ,mutisig,something wrong"></topic>
+            <topic id="6" parent="5" guid="PzkHKG-ODhop1S8iNADYQg" x="562.29" y="46.62" text="Create a\Ntransaction need\N2/3"></topic>
+            <topic id="7" parent="4" guid="Jbx_Z2guWFg0bkiUS80YdA" x="457.80" y="167.09" text="bank before pay"></topic>
+            <topic id="8" parent="4" guid="dIxSaXRkU5YbY-EaWJwQyw" x="439.98" y="234.97" text="Micro-payments"></topic>
+            <topic id="9" parent="8" guid="aDWsan4K2ndf4K7saeuPHw" x="576.00" y="229.70" text="multisig 2/2"></topic>
+            <topic id="10" parent="8" guid="GHeZzB8uPHoYycVEZ_s6TQ" x="562.18" y="282.45" text="One send to another privately"></topic>
+            <topic id="11" parent="8" guid="Upb51jIqkrw3UEvUCPNgsg" x="522.38" y="332.94" text="Lock-time"></topic>
+            <topic id="12" parent="0" guid="U3EXRhYWOq95TvtJMSilaQ" x="78.55" y="384.73" palette="6" colorinfo="6" text="p2p"></topic>
+            <topic id="13" parent="12" guid="cvmSwyiNBOMK4kMCGLYSKw" x="16.04" y="449.40" text="Seed node:先找到足够多的node list,然后可以挑选一些作为自己的p2p nodes"></topic>
+            <topic id="14" parent="12" x="16.04" y="492.77" text="Gossip protocol"></topic>
+            <topic id="15" parent="12" guid="ELtdOz9Qi5ZkgyqfT_RkYw" x="6.34" y="550.94" text="收到tx的节点主动告诉别人"></topic>
+            <topic id="16" parent="12" guid="Lt6ZsQ5YWcED9TylI2rsGg" x="11.65" y="600.18" text="双花攻击时，如果接收到第一个，则不会relay第二个"></topic>
+            <topic id="17" parent="12" guid="ArytVx9ZHb98BvzmavJZwQ" x="-4.24" y="642.88" text="relay check transaction"></topic>
+            <topic id="18" parent="17" guid="HWP4Nlvnq9JU3ejgNduSAw" x="-73.78" y="694.22" text="valid"></topic>
+            <topic id="19" parent="17" guid="exXoTG2nriUd1sxQTaziIg" x="-92.64" y="743.70" text="Avoid unusual scripts"></topic>
+            <topic id="20" parent="17" x="-92.64" y="785.31" text="Haven't seen before"></topic>
+            <topic id="21" parent="17" guid="H9JA4VUnGCRWoELVc0NYJw" x="-92.64" y="826.91" text="No conflict with relayed "></topic>
+            <topic id="22" parent="12" guid="az1S1E_vPh4ka_2QXjbllw" x="211.08" y="687.77" text="Relay block check"></topic>
+            <topic id="23" parent="22" guid="eHxDAi9OQJJ27PfCCTegPQ" x="154.54" y="743.34" text="Meet the target diffculty"></topic>
+            <topic id="24" parent="22" x="154.54" y="784.95" text="Have all valid tx"></topic>
+            <topic id="25" parent="22" guid="bp7MKFtwImFZLAShHX1l2Q" x="154.54" y="826.55" text="On the longest chain"></topic>
+            <topic id="26" parent="12" guid="ach8I10hQUZA6FH0bIUpeg" x="380.16" y="610.78" text="30sec是很长的，not effiecient,size越大，时间越长"></topic>
+            <topic id="27" parent="0" guid="fHpfBjzvTtpXd4M8Gd5XPA" x="-92.49" y="49.65" palette="7" colorinfo="7" text="scale"></topic>
+            <topic id="28" parent="27" x="-163.10" y="2.59" text="1M IP join /month"></topic>
+            <topic id="29" parent="27" guid="Gf0aQW2QtY9hmcUbOc9bIg" x="-321.71" y="8.34" text="5~10 k full nodes"></topic>
+            <topic id="30" parent="27" guid="GNb6rCxVbBxPuek_E-zi-A" x="-322.62" y="73.45" text="12M utxo in memory"></topic>
+            <topic id="31" parent="27" guid="QrfNtDg6B_AtErNJLfUgiA" x="-322.62" y="115.06" text="90% run C++ core bitcoin"></topic>
+            <topic id="32" parent="0" guid="CClGDlF-sNkMLAYfAKWJEA" x="-125.58" y="218.31" palette="2" colorinfo="2" text="limits"></topic>
+            <topic id="33" parent="32" guid="AMzxawMY_eIJ3SlOb2u9lA" x="-284.98" y="182.40" text="10min"></topic>
+            <topic id="34" parent="32" guid="XokgQ2MJLe8M6SNtSFGcZg" x="-300.87" y="220.79" text="1M bytes in a block"></topic>
+            <topic id="35" parent="32" x="-339.66" y="272.15" text="20000 signatures\Nops per block"></topic>
+            <topic id="36" parent="32" x="-348.66" y="326.34" text="1btc =1亿中本聪"></topic>
+            <topic id="37" parent="32" x="-348.66" y="369.71" text="23M btc"></topic>
+            <topic id="38" parent="32" x="-348.66" y="411.31" text="50 25 12.5 "></topic>
+            <topic id="39" parent="32" guid="QCpvNU3RdWE01sXhPKTOOw" x="-348.43" y="457.06" text="7 tx/sec"></topic>
+            <topic id="40" parent="39" guid="CsDEOwxOSR1WgyV4I5e-5w" x="-453.79" y="491.69" text="Visa 2000-10000 txs"></topic>
+            <topic id="41" parent="39" guid="OKO1OSY9Drc3hKHgUqDPew" x="-364.46" y="523.41" text="50-100 txs"></topic>
+            <topic id="42" parent="32" guid="E83ERxkeZvsMcCqdVoWR-w" x="-421.62" y="569.12" text="sig algthm"></topic>
+            <topic id="43" parent="42" x="-464.98" y="620.50" text="May be unsafe by 2040"></topic>
+            <topic id="44" parent="32" guid="UVhu6zmC3ecEerKDWYG0-Q" x="-88.14" y="290.63" text="resolution"></topic>
+            <topic id="45" parent="44" guid="CwGOwBCmuKJaJz4KC86ALA" x="80.41" y="340.51" text="Hard-forking: old new reject each other "></topic>
+            <topic id="46" parent="44" guid="E7-2hGQEZ1h7Oj3AckjWyA" x="-157.00" y="378.60" text="Soft-forking:old accept\N new, new reject old\N but if old want to use \Nnew features"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

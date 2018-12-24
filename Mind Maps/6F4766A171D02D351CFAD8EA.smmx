@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="6F4766A171D02D351CFAD8EA"></guid>
+            <title text="berkeley"></title>
+            <style key="system.spring-levels"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="114" x="62.18" y="209.71"></scrollstate>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="LjjXiWY8XAE8lTPPa-Sb5Q" x="400.00" y="400.00" text="berkeley  "></topic>
+            <topic id="1" parent="0" guid="YBC72l3JcvdNvogdQjXZvw" x="454.23" y="136.94" text="Bitcoin Protocol and Consensus:\NA High Level Overview:比特币及其共识"></topic>
+            <topic id="2" parent="0" guid="FGsIFwGpvFND1m_DaxuWFA" x="584.55" y="208.56" text="Bitcoin and Blockchain History:\NFrom the Cypherpunk Movement\Nto JPMorgan Chase，历史"></topic>
+            <topic id="3" parent="0" guid="S-vjOxOHVN1njUiMd1Y3cg" x="593.08" y="307.37" text="Bitcoin Mechanics and\NOptimizations: A Technical\NOverview，比特币机智及优化"></topic>
+            <topic id="4" parent="0" guid="FAFZnljexv1e5PY0VkN10A" x="618.90" y="394.33" text="Bitcoin IRL: Wallets,\NMining, and More：挖矿钱包"></topic>
+            <topic id="5" parent="0" guid="fsHOWUrp7WFerPziZ1ocnQ" x="626.78" y="466.97" text="Ethereum and Smart Contracts:\NEnabling a Decentralized Future：以太坊只能和鱼"></topic>
+            <topic id="6" parent="0" guid="RM8TrktfdI4Q9Fb2BCKc7g" x="670.75" y="539.28" text="How to Destroy Bitcoin: Game\NTheory and Network Attacks，比特币攻击"></topic>
+            <topic id="7" parent="0" guid="OqbbMALEhCshHXXYaN-yuQ" x="661.38" y="623.10" text="Trust Without Trust:\NDistributed Systems and\NAlternative Consensus，信任和共识"></topic>
+            <topic id="8" parent="0" guid="aQDgLV2yqadUxE6eSRGcBw" x="446.52" y="711.29" text="Securing Incentives: Cryptoeconomics and\NProof-of-Stake，pos和加密经济"></topic>
+            <topic id="9" parent="0" guid="O3wcniKC1rwLR3XGT-cktg" x="265.16" y="790.50" text="Enterprise Blockchain: Real-World\NApplications，真实的比特币"></topic>
+            <topic id="10" parent="0" guid="JCyTD08d5Yk7ArrKcBh2Sw" x="163.00" y="687.72" text="Scaling Blockchain:\NCryptocurrencies for the\NMasses：扩容"></topic>
+            <topic id="11" parent="0" guid="YqU6ZiKQA1Znbq29dqaUBA" x="162.12" y="537.99" text="Anonymity: Mixing and\NAltcoins，匿名技术"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="1C20071C521207740100136D"></guid>
+            <title text="欢迎"></title>
+            <images containsImages="true"></images>
+            <style key="system.spring-levels"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="70" x="135.71" y="263.63"></scrollstate>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="fmeE8tPVhUSQsOj9Vdjk3A" x="785.00" y="787.00" layout="strict-horizontal" layout-direction="manual" palette="1" colorinfo="1" text="欢迎"></topic>
+            <topic id="1" parent="0" guid="suL7CqeTjESjjKKh3V-zww" x="939.93" y="581.76" text="什么是思维导图">
+                <parent-relation guid="kO-UhhTO80uuuX7tWPnSow"></parent-relation>
+                <link urllink="https://simplemind.eu/how-to-mind-map/basics/"></link>
+            </topic>
+            <topic id="2" parent="0" guid="XsP-pgK7206MKyOUWCA1dA" x="931.93" y="679.10" palette="2" colorinfo="2" text="正在添加话题">
+                <link urllink="https://simplemind.eu/support/editor-help/#adding-topics"></link>
+            </topic>
+            <topic id="3" parent="2" guid="RLJHgasQvEW6UcDMNT86GQ" x="1109.68" y="644.72" icon="#ba6ee5f2ca270c5adb0c44914f2da15492df266c" text="拖动或轻按\N添加子级话题"></topic>
+            <topic id="4" parent="2" guid="55jjzINqFkamM-27HgVMWQ" x="1109.68" y="713.47" icon="#bb86760bfb9ba8090275a0f8cdc0ea59f7621376" text="拖动或轻按\N添加同级话题"></topic>
+            <topic id="5" parent="0" guid="e9po7JYhAEeZnxo4cg2QAA" x="931.93" y="822.59" text="正在编辑文本">
+                <link urllink="https://simplemind.eu/support/editor-help/#editing-topic-text"></link>
+            </topic>
+            <topic id="6" parent="5" guid="e-rfe1mdpkO8XTK9y78aSQ" x="1099.93" y="778.22" text="双击编辑文本"></topic>
+            <topic id="7" parent="5" guid="jguqYdTDdEShBHI7Hb1byw" x="1118.68" y="846.97" icon="#01030f766a92f3492335ac6a44bd647235369af8" text="自动换行工具">
+                <link urllink="https://simplemind.eu/support/editor-help/#word-wrap-tool"></link>
+            </topic>
+            <topic id="8" parent="7" guid="hjUDSJrkeUmwg6XC334YdA" x="1269.43" y="846.97" text="调整\N换行处\N和宽度"></topic>
+            <topic id="9" parent="0" guid="_W7aU5zPJE-4l3YyLY5PPQ" x="915.93" y="956.09" palette="6" colorinfo="6" text="正在选择">
+                <parent-relation guid="eipWgxKjaEWk_XW4OjroUw"></parent-relation>
+                <link urllink="https://simplemind.eu/support/editor-help/#multiple-selection"></link>
+            </topic>
+            <topic id="10" parent="9" guid="zUazMVWnKUOxkTKQx9HArw" x="1067.93" y="921.71" text="轻按进行选择"></topic>
+            <topic id="11" parent="9" guid="E5DXQLX7hUqgjSSSiRGnoQ" x="1081.93" y="980.46" text="长按话题即可\N选择分支中的话题">
+                <parent-relation guid="OlT20wc8uE2hn8nzlzj59w"></parent-relation>
+            </topic>
+            <topic id="12" parent="0" guid="_JXhTUcvB0iyqonmkg_FUA" x="638.07" y="604.16" palette="3" colorinfo="3" collapsed="true" text="保存思维导图">
+                <link urllink="https://simplemind.eu/faq/#!/mac/mind-maps-stored-mac"></link>
+            </topic>
+            <topic id="13" parent="12" guid="dzI1RbJD7ECykZhHsUlkbw" x="521.57" y="604.16" icon="#47e95082cf5f7f9863a258633cbc8009fb6a24f8" text="本地"></topic>
+            <topic id="14" parent="13" guid="18JK06cHl0KjOg_bUiPDWg" x="471.57" y="604.16" icon="ic8_48_tablet" text="仅保存于设备"></topic>
+            <topic id="15" parent="13" guid="VqFFRjxzv0eUIn8XJheZHg" x="471.57" y="604.16" palette="0" colorinfo="-1" icon="ic8_48_warning" text="请确保你进行了备份">
+                <style>
+                    <fillcolor r="255" g="255" b="255"></fillcolor>
+                    <textcolor r="187" g="187" b="187"></textcolor>
+                    <strokecolor r="187" g="187" b="187"></strokecolor>
+                </style>
+                <fillcolor r="255" g="255" b="255"></fillcolor>
+                <strokecolor r="187" g="187" b="187"></strokecolor>
+                <parent-relation>
+                    <style>
+                        <color r="187" g="187" b="187"></color>
+                    </style>
+                </parent-relation>
+            </topic>
+            <topic id="16" parent="12" guid="lRY6UkzikkOT5TBF9pHqDg" x="521.57" y="604.16" palette="0" colorinfo="-1" icon="#e5e741364bdf524cc663a6e29943430f5dffcfc6" text="云">
+                <style>
+                    <fillcolor r="255" g="255" b="255"></fillcolor>
+                    <textcolor r="187" g="187" b="187"></textcolor>
+                    <strokecolor r="187" g="187" b="187"></strokecolor>
+                </style>
+                <fillcolor r="255" g="255" b="255"></fillcolor>
+                <strokecolor r="187" g="187" b="187"></strokecolor>
+                <parent-relation>
+                    <style>
+                        <color r="187" g="187" b="187"></color>
+                    </style>
+                </parent-relation>
+            </topic>
+            <topic id="17" parent="16" guid="aEW_x198Ok6HgCkUU5kloA" x="471.57" y="604.16" palette="0" colorinfo="-1" icon="ic8_48_dropbox" text="Dropbox">
+                <style>
+                    <fillcolor r="255" g="255" b="255"></fillcolor>
+                    <textcolor r="187" g="187" b="187"></textcolor>
+                    <strokecolor r="187" g="187" b="187"></strokecolor>
+                </style>
+                <fillcolor r="255" g="255" b="255"></fillcolor>
+                <strokecolor r="187" g="187" b="187"></strokecolor>
+                <parent-relation>
+                    <style>
+                        <color r="187" g="187" b="187"></color>
+                    </style>
+                </parent-relation>
+            </topic>
+            <topic id="18" parent="17" guid="gNJ3h0vU8kyQElI2V5LAaA" x="421.57" y="604.16" palette="0" colorinfo="-1" text="在设备间自动同步">
+                <style>
+                    <fillcolor r="255" g="255" b="255"></fillcolor>
+                    <textcolor r="187" g="187" b="187"></textcolor>
+                    <strokecolor r="187" g="187" b="187"></strokecolor>
+                </style>
+                <fillcolor r="255" g="255" b="255"></fillcolor>
+                <strokecolor r="187" g="187" b="187"></strokecolor>
+                <parent-relation>
+                    <style>
+                        <color r="187" g="187" b="187"></color>
+                    </style>
+                </parent-relation>
+            </topic>
+            <topic id="19" parent="16" guid="uKWTt4RgOEqzA3QP5_pNkw" x="471.57" y="604.16" palette="0" colorinfo="-1" icon="ic8_48_google_drive" text="Google Drive">
+                <style>
+                    <fillcolor r="255" g="255" b="255"></fillcolor>
+                    <textcolor r="187" g="187" b="187"></textcolor>
+                    <strokecolor r="187" g="187" b="187"></strokecolor>
+                </style>
+                <fillcolor r="255" g="255" b="255"></fillcolor>
+                <strokecolor r="187" g="187" b="187"></strokecolor>
+                <parent-relation>
+                    <style>
+                        <color r="187" g="187" b="187"></color>
+                    </style>
+                </parent-relation>
+            </topic>
+            <topic id="20" parent="19" guid="ErdGdUDZw0WTxpTbUIE0Fg" x="421.57" y="604.16" palette="0" colorinfo="-1" text="使用云服务器备份">
+                <style>
+                    <fillcolor r="255" g="255" b="255"></fillcolor>
+                    <textcolor r="187" g="187" b="187"></textcolor>
+                    <strokecolor r="187" g="187" b="187"></strokecolor>
+                </style>
+                <fillcolor r="255" g="255" b="255"></fillcolor>
+                <strokecolor r="187" g="187" b="187"></strokecolor>
+                <parent-relation>
+                    <style>
+                        <color r="187" g="187" b="187"></color>
+                    </style>
+                </parent-relation>
+            </topic>
+            <topic id="21" parent="0" guid="HU77u92v1EKwi54eLtNXSg" x="669.33" y="661.35" palette="4" colorinfo="4" collapsed="true" text="类型">
+                <link urllink="https://simplemind.eu/support/editor-help/#style"></link>
+            </topic>
+            <topic id="22" parent="21" guid="u20E2cXbOEKSvxUKC7eHfA" x="584.09" y="661.35" icon="#a5115c120e040740082d54ede38b288b429121f3" text="为整个思维导图\N选择一个样式表">
+                <link urllink="https://simplemind.eu/support/editor-help/#stylesheet"></link>
+            </topic>
+            <topic id="23" parent="21" guid="_YGP6W6cikW91qYMfBpalg" x="584.09" y="661.35" palette="0" colorinfo="-1" text="自定义话题\N和线条">
+                <style>
+                    <fillcolor r="255" g="255" b="255"></fillcolor>
+                    <textcolor r="187" g="187" b="187"></textcolor>
+                    <strokecolor r="187" g="187" b="187"></strokecolor>
+                </style>
+                <fillcolor r="255" g="255" b="255"></fillcolor>
+                <strokecolor r="187" g="187" b="187"></strokecolor>
+                <parent-relation>
+                    <style>
+                        <color r="187" g="187" b="187"></color>
+                    </style>
+                </parent-relation>
+                <link urllink="https://simplemind.eu/support/editor-help/#element-style"></link>
+            </topic>
+            <topic id="24" parent="0" guid="mYfA8Sof00qpwAWUkVfYrw" x="636.32" y="844.18" palette="5" colorinfo="5" icon="#bedcedf7204356c3e5ecbc42d9bc9e7e705d7234" text="话题工具栏">
+                <parent-relation guid="V2jsOebRp0ChA8EBGQrWng"></parent-relation>
+                <link urllink="https://simplemind.eu/support/editor-help/#node-toolbar"></link>
+            </topic>
+            <topic id="25" parent="24" guid="IBvcxC67GECvO9dLiUOTgg" x="471.57" y="717.32" palette="0" colorinfo="-1" text="添加图片">
+                <style>
+                    <fillcolor r="255" g="255" b="255"></fillcolor>
+                    <textcolor r="187" g="187" b="187"></textcolor>
+                    <strokecolor r="187" g="187" b="187"></strokecolor>
+                </style>
+                <fillcolor r="255" g="255" b="255"></fillcolor>
+                <strokecolor r="187" g="187" b="187"></strokecolor>
+                <parent-relation guid="y_vYtAoKR0SFC2N95RvuDg">
+                    <style>
+                        <color r="187" g="187" b="187"></color>
+                    </style>
+                </parent-relation>
+                <link urllink="https://simplemind.eu/support/editor-help/#add-image"></link>
+            </topic>
+            <topic id="26" parent="24" guid="LkgD9ZZSdEKfApaLFl9o2w" x="458.57" y="768.06" palette="0" colorinfo="-1" icon="ic8_48_information" text="添加图标">
+                <style>
+                    <fillcolor r="255" g="255" b="255"></fillcolor>
+                    <textcolor r="187" g="187" b="187"></textcolor>
+                    <strokecolor r="187" g="187" b="187"></strokecolor>
+                </style>
+                <fillcolor r="255" g="255" b="255"></fillcolor>
+                <strokecolor r="187" g="187" b="187"></strokecolor>
+                <parent-relation>
+                    <style>
+                        <color r="187" g="187" b="187"></color>
+                    </style>
+                </parent-relation>
+                <link urllink="https://simplemind.eu/support/editor-help/#add-icons"></link>
+            </topic>
+            <topic id="27" parent="24" guid="dRDEwTKpqUKFTY_BZfJWAg" x="457.57" y="818.81" palette="0" colorinfo="-1" text="添加导航链接">
+                <style>
+                    <fillcolor r="255" g="255" b="255"></fillcolor>
+                    <textcolor r="187" g="187" b="187"></textcolor>
+                    <strokecolor r="187" g="187" b="187"></strokecolor>
+                </style>
+                <fillcolor r="255" g="255" b="255"></fillcolor>
+                <strokecolor r="187" g="187" b="187"></strokecolor>
+                <parent-relation guid="PsYh3vxWZ0mdrZmBC_YwJQ">
+                    <style>
+                        <color r="187" g="187" b="187"></color>
+                    </style>
+                </parent-relation>
+                <link urllink="https://simplemind.eu/support/editor-help/#link"></link>
+            </topic>
+            <topic id="28" parent="24" guid="XYx8ayVtGkWTebpLmpCtxA" x="484.92" y="894.93" text="布局">
+                <link urllink="https://simplemind.eu/support/editor-help/#layout-topics"></link>
+            </topic>
+            <topic id="29" parent="28" guid="sah9Jxcpx0mXYHUnMqpRNg" x="364.27" y="870.56" text="自由形式"></topic>
+            <topic id="30" parent="28" guid="PFlJH8JD9keJwRJWAzQMvw" x="364.27" y="919.31" text="自动排列"></topic>
+            <topic id="31" parent="24" guid="Ro_9wE6vB0G4pguEXErc2g" x="471.57" y="971.05" palette="0" colorinfo="-1" collapsed="true" text="添加交联">
+                <style>
+                    <fillcolor r="255" g="255" b="255"></fillcolor>
+                    <textcolor r="187" g="187" b="187"></textcolor>
+                    <strokecolor r="187" g="187" b="187"></strokecolor>
+                </style>
+                <fillcolor r="255" g="255" b="255"></fillcolor>
+                <strokecolor r="187" g="187" b="187"></strokecolor>
+                <parent-relation guid="7O_y4orZCEqhxFejoHa3Yg">
+                    <style>
+                        <color r="187" g="187" b="187"></color>
+                    </style>
+                </parent-relation>
+                <link urllink="https://simplemind.eu/support/editor-help/#add-crosslink"></link>
+            </topic>
+            <topic id="32" parent="31" guid="oTj6LD-nA0GR38BCKBTnvA" x="375.07" y="971.05" palette="0" colorinfo="-1" icon="#ba6ee5f2ca270c5adb0c44914f2da15492df266c" text="拖动⊕也可添加\N关联">
+                <style>
+                    <fillcolor r="255" g="255" b="255"></fillcolor>
+                    <textcolor r="187" g="187" b="187"></textcolor>
+                    <strokecolor r="187" g="187" b="187"></strokecolor>
+                </style>
+                <fillcolor r="255" g="255" b="255"></fillcolor>
+                <strokecolor r="187" g="187" b="187"></strokecolor>
+                <parent-relation>
+                    <style>
+                        <color r="187" g="187" b="187"></color>
+                    </style>
+                </parent-relation>
+            </topic>
+            <topic id="33" parent="-1" guid="jcfoEqm8GUCu0IEuAM95rg" x="785.00" y="458.64" palette="0" colorinfo="-1" text="更多网站上的特色功能和帮助 →">
+                <style borderstyle="sbsRectangle">
+                    <fillcolor none="true"></fillcolor>
+                    <font bold="true" scale="1.40"></font>
+                </style>
+                <fillcolor none="true"></fillcolor>
+                <strokecolor r="84" g="165" b="182"></strokecolor>
+                <link urllink="https://simplemind.eu/how-to-mind-map/"></link>
+            </topic>
+            <topic id="34" parent="-1" guid="AbJO-ucypUqXGoRlgEYiww" x="783.00" y="1080.08" palette="0" colorinfo="-1" text="仅限专业版">
+                <style borderstyle="sbsRectangle">
+                    <fillcolor r="255" g="255" b="255"></fillcolor>
+                    <textcolor r="187" g="187" b="187"></textcolor>
+                    <font bold="true" scale="1.40"></font>
+                    <strokecolor r="187" g="187" b="187"></strokecolor>
+                </style>
+                <fillcolor r="255" g="255" b="255"></fillcolor>
+                <strokecolor r="187" g="187" b="187"></strokecolor>
+                <link urllink="https://simplemind.eu/features/"></link>
+            </topic>
+            <topic id="35" parent="-1" guid="RWbWl6Y1K0-O8mjP0qZrIw" x="785.00" y="692.27" palette="0" colorinfo="-1" icon="#7cb29ea06848c82ea4403b9a4981cafc7e1b3abc" text="点击\N打开">
+                <style borderstyle="sbsNone">
+                    <fillcolor none="true"></fillcolor>
+                    <font scale="0.86"></font>
+                </style>
+                <fillcolor none="true"></fillcolor>
+                <strokecolor r="84" g="165" b="182"></strokecolor>
+            </topic>
+        </topics>
+        <relations>
+            <relation guid="mXmZo-OP902eeBlgkxHLlQ" source="31" target="28">
+                <style>
+                    <color r="187" g="187" b="187"></color>
+                </style>
+                <path>
+                    <custom-point x="-28.50" y="-2.89"></custom-point>
+                </path>
+            </relation>
+            <relation guid="40AEJNekY0uAEK5anKKH1A" source="24" target="23">
+                <style>
+                    <color r="187" g="187" b="187"></color>
+                </style>
+            </relation>
+            <relation guid="ZVQVjBaU9UW0KzKt_ntoMg" source="19" target="18">
+                <style line-style="penCable" source-arrow="none" target-arrow="none">
+                    <color r="187" g="187" b="187"></color>
+                </style>
+            </relation>
+            <relation guid="BhuzIcpCSEa-abhEPjVKQw" source="17" target="20">
+                <style line-style="penCable" source-arrow="none" target-arrow="none">
+                    <color r="187" g="187" b="187"></color>
+                </style>
+            </relation>
+        </relations>
+    </mindmap>
+</simplemind-mindmaps>

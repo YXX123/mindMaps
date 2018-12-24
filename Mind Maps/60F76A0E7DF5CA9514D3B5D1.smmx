@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="60F76A0E7DF5CA9514D3B5D1"></guid>
+            <title text="Implicit"></title>
+            <style key="system.bright-palette"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="100" x="308.35" y="-363.62"></scrollstate>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="eAP-iWIOsdBBrGsFdB3hGA" x="423.58" y="36.10" palette="1" colorinfo="1" text=" Implicit "></topic>
+            <topic id="1" parent="0" guid="Gc_1cne9XPM-MUJrdK-Lyg" x="534.76" y="-37.17" palette="2" colorinfo="2" text="Implicit parameters"></topic>
+            <topic id="2" parent="1" guid="Hjp1Q1b1Dkh67v08QGS7OQ" x="567.39" y="-103.37" text="def"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

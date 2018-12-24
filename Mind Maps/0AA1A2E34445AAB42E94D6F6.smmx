@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="0AA1A2E34445AAB42E94D6F6"></guid>
+            <title text="cs251"></title>
+            <style key="system.spring-levels"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="114" x="-164.71" y="-279.61"></scrollstate>
+            <selection guid="BbIroErROp1iuNCRTx6nfA" type="node" id="0"></selection>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="BbIroErROp1iuNCRTx6nfA" x="185.16" y="106.83" text=" cs251"></topic>
+            <topic id="1" parent="0" guid="Wvw9OxD-98o_sbz0SFHN4Q" x="215.35" y="-192.87" text="Intro to cryptography &amp;\Ncrypto currencies,介绍"></topic>
+            <topic id="2" parent="0" guid="BF9Tbw4jvfsJafa0HiGFuQ" x="316.77" y="-118.67" text="Overview of\Nconsensus\Nprotocols，共识简介"></topic>
+            <topic id="3" parent="0" guid="fkylLTeOM9MeS_5cBzQGxw" x="396.69" y="-55.28" text="Bitcoin nuts and\Nbolts，比特币详细"></topic>
+            <topic id="4" parent="0" guid="GDjstzxcgfIsNjvwQfMLOw" x="424.94" y="-3.08" text="Proof of Work and\Nmining strategies，pow"></topic>
+            <topic id="5" parent="0" guid="frpTdQVoMQwBmeRCJC4n2w" x="423.10" y="48.21" text="Proof of Stake :pos"></topic>
+            <topic id="6" parent="0" guid="aFC-CxVtVflSEUf-H3t4Hw" x="431.70" y="94.34" text="Managing and\Nprotecting crypto\Nassets,钱包"></topic>
+            <topic id="7" parent="0" guid="IA743BZW8rJOEE8WJcEkfA" x="478.78" y="162.08" text="Mining attacks，挖矿攻击"></topic>
+            <topic id="8" parent="0" guid="edRf2SE0Pydh2ew4YiUd5A" x="-17.32" y="79.52" text="Cross-chain\Ntransactions：跨链交易"></topic>
+            <topic id="9" parent="0" guid="RW5i8wKU7vVINfLcXadPqg" x="-28.20" y="22.47" text="Ethereum: Decentralized Apps, EVM, and the\NEthereum blockchain，以太坊"></topic>
+            <topic id="10" parent="0" guid="YSgtTzDJH6d038v4PCRqig" x="-30.35" y="-32.90" text="Programming in\Nsolidity ，solidity编程"></topic>
+            <topic id="11" parent="0" guid="QcgXcTSRiOwEdjhrRidq4A" x="-35.32" y="-86.67" text="Decentralized Autonomous\NOrganizations，去中心化组织"></topic>
+            <topic id="12" parent="0" guid="QrVG5w3gLyBkSPCZQQHsFQ" x="-43.86" y="-137.67" text="A real-world\NEthereum system"></topic>
+            <topic id="13" parent="0" guid="PvFw53RsLswfmlrlPavEXA" x="-9.42" y="-188.10" text="De-anonymizing the blockchain\Nand mixing：匿名混淆技术"></topic>
+            <topic id="14" parent="0" guid="NqGVIDPrNDYBoJYEVrCN_A" x="413.74" y="227.55" text="Privacy on the blockchain:\Nzero-knowledge and more，零知识证明"></topic>
+            <topic id="15" parent="0" x="313.54" y="384.79" text="Crypto economics：加密经济"></topic>
+            <topic id="16" parent="0" guid="AHoEwXFRfnBnjr7BQkIcMg" x="184.09" y="334.96" text="Distributed exchanges：交易"></topic>
+            <topic id="17" parent="0" guid="JeMHXGwE9y0IaYcSaJhORA" x="83.60" y="282.56" text="Legal aspects and\Nregulation：合规性"></topic>
+            <topic id="18" parent="0" guid="eeUmTWyyd6wpmjpZP1OJQA" x="-2.04" y="177.28" text="A blockchain from a\Nrandomness beacon：VRF"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

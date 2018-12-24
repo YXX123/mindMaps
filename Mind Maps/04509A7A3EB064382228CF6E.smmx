@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="04509A7A3EB064382228CF6E"></guid>
+            <title text="Clique"></title>
+            <style key="system.spring-levels"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="114" x="-67.55" y="143.64"></scrollstate>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="FNWt-QtjRXhnAaf5A2fKZQ" x="264.57" y="379.86" text="Clique"></topic>
+            <topic id="1" parent="0" x="416.79" y="103.91" text="认证节点和非认证节点"></topic>
+            <topic id="2" parent="0" guid="Zf-VwUCqSOE2WcvXNwjODQ" x="525.20" y="169.27" text="认证原理，认证节点列表，其他检测"></topic>
+            <topic id="3" parent="0" guid="O98Z8AiKaolbClM8J9MJOw" x="516.19" y="254.33" text="机会均等，连续节点在limit内无法再签"></topic>
+            <topic id="4" parent="0" x="440.29" y="363.27" text="难度计算，inturn节点"></topic>
+            <topic id="5" parent="0" guid="aZETjXcqWlh55RCwapEm-g" x="430.39" y="493.44" text="区块分发，主动延迟"></topic>
+            <topic id="6" parent="0" x="390.29" y="623.08" text="区块链重组"></topic>
+            <topic id="7" parent="0" guid="RmkOJR-iAXFhrTD6BKgt0Q" x="150.29" y="623.08" text="认证节点维护"></topic>
+            <topic id="8" parent="7" guid="E6OlKBo6zc871QO5KHlTIg" x="260.17" y="772.68" text="用户通过rpc发起purposal"></topic>
+            <topic id="9" parent="7" guid="JZ4TRyLWq7Ir4R2HC52pCA" x="54.19" y="772.87" text="节点随机挑选purposal广播"></topic>
+            <topic id="10" parent="7" guid="TEiACw9TCq5bimmXGaw0Sw" x="157.56" y="847.63" text="其他节点接受后进行vote"></topic>
+            <topic id="11" parent="0" guid="Y4D0k2I66V5CpncVH2AOhA" x="63.46" y="516.60" text="Checkpoint:\Nepoch去掉投票信息"></topic>
+            <topic id="12" parent="0" x="100.29" y="363.27" text="同步方式"></topic>
+            <topic id="13" parent="0" guid="asVT5x2wylJHMxe_VFZndA" x="82.63" y="205.36" text="添加对端节点"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

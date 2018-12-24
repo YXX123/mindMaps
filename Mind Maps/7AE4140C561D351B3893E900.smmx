@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="7AE4140C561D351B3893E900"></guid>
+            <title text="Monoid"></title>
+            <style key="system.bright-palette"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="100" x="-466.09" y="46.86"></scrollstate>
+            <selection guid="YvCrnCKbLjUQg4WyAgK1wg" type="node" id="26"></selection>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="JwdJEQz4FLptrvw1XnLazg" x="207.21" y="247.80" palette="1" colorinfo="1" text=" Monoid"></topic>
+            <topic id="1" parent="0" guid="cozRaQ9KQ3xSIGP0Cp-jUg" x="438.52" y="112.86" palette="2" colorinfo="2" text="Scala的context bound语法糖"></topic>
+            <topic id="2" parent="0" guid="CvWhYxwtXR1ssBbBbR9qRA" x="335.00" y="306.07" palette="3" colorinfo="3" text="type class，可以没有type class ,这个时候就需要"></topic>
+            <topic id="3" parent="2" guid="Bkw7HE2ngM9rFTTaGx_w7Q" x="489.91" y="179.80" text="Trait 加 implicit\Nobject实例来实现"></topic>
+            <topic id="4" parent="2" guid="Rat_WU0j5qpczFvzOclgcQ" x="535.25" y="258.04" text="Interface\N原有类要用interface就要修改原有类"></topic>
+            <topic id="5" parent="2" guid="ZvPcHFSJuOZ3-qLcW6Nn5g" x="555.28" y="348.24" text="而type\Nclass只要在外部实现一个对应的实例即可"></topic>
+            <topic id="6" parent="2" guid="EF3rBGibPetbm31CAyIZLg" x="541.09" y="434.60" text="实现"></topic>
+            <topic id="7" parent="6" guid="N4rvEDIt4mU2SwKRAV60QA" x="668.27" y="405.37" text="1:有一个trait"></topic>
+            <topic id="8" parent="6" guid="HxIKJjightNkeYfzED3Faw" x="871.57" y="452.52" text="2:有几个具体实例，这个实例必须是implicit的object,object可以赋值给val"></topic>
+            <topic id="9" parent="6" guid="Xt18oyIH1PRyOcKCGIUrnA" x="843.74" y="509.41" text="3:有一个接受implicit trait的函数，他使用trait里的函数，将value：A转化"></topic>
+            <topic id="10" parent="9" guid="e3OjjEGHq5FEuav9ZCm1oA" x="838.00" y="596.12" text="或者另一种写法：object JsonSyntax{\N  implicit class JsonWriterOps[A](value:A){\N    def toJson(implicit w:JsonWriter[A]):Json=w.write(value)\N  }\N}这个她是implicit class会将A转化为 JsonWriterOps类对象"></topic>
+            <topic id="11" parent="10" guid="YvX4lXuNz7FX1WkXIJGitg" x="826.48" y="700.46" text="或者 implicit final def hashingSyntax(a: ByteVector):\NHashingOps = new HashingOps(a)，直接转化为对象"></topic>
+            <topic id="12" parent="2" guid="BIDZaUOBXh1HFQAIHYUSqQ" x="572.68" y="790.71" text="cats"></topic>
+            <topic id="13" parent="12" guid="f1WQOze1mxcdfSgFD7N7Pw" x="725.08" y="764.57" text="cats包中定义默认的type classes"></topic>
+            <topic id="14" parent="12" guid="IFDZA3kYpUgS1ZRtV9vIEw" x="730.92" y="818.64" text="Cats.instances定义默认的实例"></topic>
+            <topic id="15" parent="12" guid="K0aHrUkglv5ZOnxTCiQEUQ" x="801.29" y="883.22" text="cats.syntax定义默认的转化：implicit def toShowOps[T](target : T)(implicit tc : Show[T]) : Ops[T]"></topic>
+            <topic id="16" parent="0" guid="csQuKk7vsSRWkmUjMyjpYw" x="327.21" y="-12.00" palette="4" colorinfo="4" text="semigroup,组合"></topic>
+            <topic id="17" parent="16" x="353.66" y="-69.27" text="combine"></topic>
+            <topic id="18" parent="0" guid="SdPFMCyvmj5rvNJjcNsOQQ" x="277.66" y="539.51" palette="5" colorinfo="5" text="monoid"></topic>
+            <topic id="19" parent="18" guid="Oaeu-FlrzphPTekPLDSAYQ" x="392.15" y="637.17" text="combine"></topic>
+            <topic id="20" parent="18" guid="ayhr8kt0PtUiqS_tZpwPfg" x="308.49" y="648.80" text="empty"></topic>
+            <topic id="21" parent="18" guid="DPvqZ2di2-pKxcUeb_Hi_A" x="217.07" y="653.08" text="associative"></topic>
+            <topic id="22" parent="0" guid="aLYSFCFuTQM21CO0c6uzdw" x="87.21" y="507.61" palette="6" colorinfo="6" text="Functor:映射"></topic>
+            <topic id="23" parent="22" guid="PZuqISOEOnVgyx28Q-flPQ" x="55.54" y="576.17" text="Trait Functor[F[_]]             Def\Nmap[A,B](fa:F[A])(f:A=&gt;B)\N:F[B]"></topic>
+            <topic id="24" parent="0" guid="cSu7REvgUpZfB9YqNtc6nQ" x="37.98" y="334.09" palette="7" colorinfo="7" text="monads"></topic>
+            <topic id="25" parent="24" guid="GQQ5QDvUMh1woJsPf_gVXA" x="-45.91" y="376.86" text="flatMap，排序"></topic>
+            <topic id="26" parent="0" guid="YvCrnCKbLjUQg4WyAgK1wg" x="-169.09" y="194.29" palette="2" colorinfo="2" text="Ops是要被转化的类型，它有一些功能，这个功能依赖于它的implicit的参数"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="5B2E37DE782F2DC72C233505"></guid>
+            <title text="IntSet :假设演绎法，三条基础"></title>
+            <style key="system.bright-palette"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="100" x="1.66" y="-25.00"></scrollstate>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="NtrfnzUbEzU3a5G9ZZS8rg" x="157.70" y="394.04" palette="1" colorinfo="1" text="IntSet :假设演绎法，三条基础"></topic>
+            <topic id="1" parent="0" x="301.54" y="93.22" palette="2" colorinfo="2" text="Empty\Ncontains x\N=false"></topic>
+            <topic id="2" parent="0" guid="IZtHR3OtiSYYEtHpe6td5w" x="355.91" y="191.42" palette="3" colorinfo="3" text="S incl x\Ncontains\Nx=true"></topic>
+            <topic id="3" parent="0" guid="Sgz5KWIQc25iKcjhah7d_g" x="391.25" y="310.14" palette="4" colorinfo="4" text="Xs incl y contains x\N=xs contains x  if x!=y"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

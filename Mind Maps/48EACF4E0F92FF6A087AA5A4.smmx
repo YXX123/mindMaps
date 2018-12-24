@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="48EACF4E0F92FF6A087AA5A4"></guid>
+            <title text="美国著名商学院"></title>
+            <style key="system.spring-levels"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="100" x="602.02" y="-10.03"></scrollstate>
+            <selection guid="NvDqmDCICHQgqLj8FuiXIA" type="node" id="2"></selection>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="X_esh0Kmq5Rv8U_DJU6vZQ" x="292.78" y="401.96" text="美国著名商学院"></topic>
+            <topic id="1" parent="0" guid="cy60CBCaCL88N0aFEYMnVA" x="412.78" y="142.16" text="宾夕法尼亚大学，沃顿商学院,pennsylvania"></topic>
+            <topic id="2" parent="0" guid="NvDqmDCICHQgqLj8FuiXIA" x="452.88" y="271.80" text="斯坦福大学商学院,stanford"></topic>
+            <topic id="3" parent="0" guid="Ilo5uFQps2laBFLffxzI0w" x="462.78" y="401.96" text="哈佛大学商学院,haford"></topic>
+            <topic id="4" parent="0" guid="cCXj9hSVHEgULdcHDqtC2A" x="476.98" y="532.58" text="西北大学，凯洛格，市场营销，northwest university"></topic>
+            <topic id="5" parent="0" guid="HlRzTF3WRAY_8iIwE4cMsw" x="412.78" y="661.77" text="哥伦比亚,columbia"></topic>
+            <topic id="6" parent="0" guid="fW0IWUzI-Rtcca3CLqdi7Q" x="172.78" y="661.77" text="芝加哥大学，布斯商学院,chicago"></topic>
+            <topic id="7" parent="0" guid="AVWjhm4GG0og9QkKGC4TWA" x="132.68" y="532.13" text="麻省理工，斯隆,mit"></topic>
+            <topic id="8" parent="0" guid="bnBMxXwpaLYlCjQHU0woCQ" x="122.78" y="401.96" text="杜克大学，富卡,duke"></topic>
+            <topic id="9" parent="0" guid="cRbnABVf4_0ysWQqboPvWg" x="132.68" y="271.80" text="达特茅斯，塔克,dartmouth"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

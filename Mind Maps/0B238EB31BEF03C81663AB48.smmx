@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="0B238EB31BEF03C81663AB48"></guid>
+            <title text="scala设计原则"></title>
+            <style key="system.bright-palette"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="100" x="250.49" y="-25.00"></scrollstate>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="VGoMJkq8bTEB3Mi5H0Tn1A" x="347.45" y="391.22" palette="1" colorinfo="1" text="scala设计原则 "></topic>
+            <topic id="1" parent="0" guid="CGxPiSdF7Psnyy3jCDfBIg" x="465.02" y="234.52" palette="2" colorinfo="2" text="Name\Neverything you\Ncan"></topic>
+            <topic id="2" parent="0" guid="HR2RQBf5k10AS2uPVI6f3w" x="508.14" y="508.17" palette="3" colorinfo="3" text="Put operations into\Nnatural scopes"></topic>
+            <topic id="3" parent="0" guid="PJTqhl9jSsgBnyaPa2iGdg" x="595.37" y="383.86" palette="4" colorinfo="4" text="Keep degrees of\Nfreedom for future refinements"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

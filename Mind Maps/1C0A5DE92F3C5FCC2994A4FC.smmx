@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="1C0A5DE92F3C5FCC2994A4FC"></guid>
+            <title text="famous AM CS"></title>
+            <style key="system.spring-levels"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="114" x="173.06" y="32.24"></scrollstate>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="Nlqmc2z51oBh9sXiGpgFvg" x="400.00" y="400.00" text="famous AM CS "></topic>
+            <topic id="1" parent="0" x="520.00" y="140.19" text="MIT"></topic>
+            <topic id="2" parent="0" guid="fWxqyV7REL1skVyzainKJQ" x="560.10" y="269.83" text="stanford"></topic>
+            <topic id="3" parent="0" x="570.00" y="400.00" text="oxford"></topic>
+            <topic id="4" parent="0" x="560.10" y="530.17" text="harvad"></topic>
+            <topic id="5" parent="0" guid="fLx8r2nBwIZQa0c8MozOpw" x="520.00" y="659.81" text="卡内基梅隆大学:Carnegie mellon "></topic>
+            <topic id="6" parent="0" guid="C3lKJHXjh9kcs97fbd6-Lg" x="280.00" y="659.81" text="剑桥大学 :cambridge"></topic>
+            <topic id="7" parent="0" x="239.90" y="530.17" text="berkeley"></topic>
+            <topic id="8" parent="0" guid="TCZPTWNBLpYQmdXXJwJKSA" x="220.00" y="400.00" text="苏黎世联邦理工学院"></topic>
+            <topic id="9" parent="0" guid="cOq2IhKyWNdFC3liThc4LA" x="239.90" y="269.83" text="新加坡国立大学:singapore"></topic>
+            <topic id="10" parent="0" x="280.00" y="140.19" text="princeton"></topic>
+            <topic id="11" parent="0" guid="C5FJAjQ-0lMairIEJilOwA" x="488.09" y="450.86" text="UIUC"></topic>
+            <topic id="12" parent="11" guid="Mas9HHlbwsESuqtzG9UHQQ" x="583.32" y="467.65" text="Cornell"></topic>
+            <topic id="13" parent="0" guid="dhg_cHx8a_lsQE59KKUOGA" x="621.22" y="349.55" text="Yale"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

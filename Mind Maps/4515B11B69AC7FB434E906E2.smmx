@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="4515B11B69AC7FB434E906E2"></guid>
+            <title text="hash function"></title>
+            <style key="system.spring-levels"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="114" x="65.24" y="30.96"></scrollstate>
+            <selection guid="GqNyy3UymWcHBZc-NPtcGg" type="node" id="1"></selection>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="bbq_M3GiNdIXDN05MxOsKg" x="148.02" y="304.57" text=" hash function"></topic>
+            <topic id="1" parent="0" guid="GqNyy3UymWcHBZc-NPtcGg" x="285.36" y="240.08" text="Collision free"></topic>
+            <topic id="2" parent="0" guid="XM6jQ3qJYN0If4oPXHNJJQ" x="282.25" y="113.92" text="hiding:H(r|x)"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

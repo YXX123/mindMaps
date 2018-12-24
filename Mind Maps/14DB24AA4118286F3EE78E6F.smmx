@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="14DB24AA4118286F3EE78E6F"></guid>
+            <title text="CS251"></title>
+            <style key="system.spring-levels"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="114" x="234.52" y="-114.97"></scrollstate>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="W0Qyz2C6KeEglL9pX-xgoA" x="303.31" y="397.15" text=" CS251"></topic>
+            <topic id="1" parent="0" guid="VkLHdEaNT7ciuxepWtv6-w" x="377.71" y="136.69" text="Homework,projects,final\Nexam"></topic>
+            <topic id="2" parent="1" guid="DamHjAIYgv8eCS8ZXSyCCg" x="359.30" y="6.67" text="Answer ： google\Ncs251 homework 1"></topic>
+            <topic id="3" parent="1" guid="R7DNzXQgy0RJ8WPaNJwggQ" x="550.21" y="-51.26" text="Video in youtube of Stanford about 3 years ago and video of berkley 2018"></topic>
+            <topic id="4" parent="0" guid="O1xqo1eGYN16QqLRAQ6Nig" x="372.85" y="578.47" text="Almost 20 aspects"></topic>
+            <topic id="5" parent="4" guid="HUHnUidTB-ZR0fZ7eIYaIg" x="299.33" y="669.45" text="cryptocurrencies"></topic>
+            <topic id="6" parent="4" guid="Se0WwVK1HZREeCn1bbv3qg" x="515.07" y="507.50" text="blockchain"></topic>
+            <topic id="7" parent="4" guid="CA0xx3JmteRYcnrCQ2mcag" x="548.90" y="575.55" text="consensus"></topic>
+            <topic id="8" parent="7" guid="XErLEyERIRYrNwzeeYQduw" x="674.39" y="572.09" text="pow"></topic>
+            <topic id="9" parent="7" x="674.39" y="613.69" text="pos"></topic>
+            <topic id="10" parent="4" guid="T4L6fUWYSs1WF5wqbMTh0A" x="720.45" y="719.81" text="Mining attacks"></topic>
+            <topic id="11" parent="4" guid="bOtStCfpkqVlSvvydPiEew" x="552.98" y="721.85" text="Cross chain tranactions"></topic>
+            <topic id="12" parent="4" guid="F-TmBySHJcs_NsOFNFa-Pw" x="639.57" y="793.54" text="EVM"></topic>
+            <topic id="13" parent="4" guid="QK3qazDKhtdcZj9_QFWjnw" x="556.45" y="834.92" text="Solidity program"></topic>
+            <topic id="14" parent="4" guid="BJkzh0ccN9VfXWtWQy00Hg" x="614.85" y="901.90" text="Decentralized autonomous "></topic>
+            <topic id="15" parent="4" x="477.89" y="941.77" text="anonymizing "></topic>
+            <topic id="16" parent="4" guid="GlBIiT29drQ4YiDmZD1fSw" x="570.97" y="1097.44" text="Privacy on blockchain"></topic>
+            <topic id="17" parent="4" guid="Hetr8X0wY9NmQX0XNdBR-A" x="287.67" y="894.59" text="Scaling blockchains"></topic>
+            <topic id="18" parent="4" guid="EHKUSHzaSttR-Vb1bL1fXA" x="290.74" y="1007.19" text="crypto economics"></topic>
+            <topic id="19" parent="4" guid="IbeJniV4QJ1qJxA3YmV0Cg" x="394.13" y="1083.64" text="Distributed exchanges"></topic>
+            <topic id="20" parent="4" x="346.52" y="1145.68" text="Random beacon"></topic>
+            <topic id="21" parent="0" guid="I87g6AmVrX9cmPchPXsVNA" x="529.43" y="400.93" text="Reading materials">
+                <parent-relation guid="HTlSqHbTxPB5UBjtRbKlyg"></parent-relation>
+            </topic>
+            <topic id="22" parent="21" guid="HHHYOBwmxKBxk8NRKA-BQA" x="690.03" y="331.92" text="Book: bitcoin and cryptocurrency technologies"></topic>
+            <topic id="23" parent="21" guid="f6e5M1POrLBqtfhWHwfHtw" x="976.23" y="390.63" text="Paper:research\Nperspectives and chanllenges for bitcoin and cryptocurrencies"></topic>
+            <topic id="24" parent="21" guid="PpQAlwhmwqhmOt93EupoDA" x="807.29" y="460.18" text="Paper resources all"></topic>
+            <topic id="25" parent="21" x="854.29" y="518.84" text="Bitcoin\Ndeveloper\Nreference"></topic>
+            <topic id="26" parent="21" x="854.29" y="576.91" text="ethereum wiki"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

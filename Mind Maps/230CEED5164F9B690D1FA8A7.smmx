@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="230CEED5164F9B690D1FA8A7"></guid>
+            <title text="lecture 1"></title>
+            <style key="system.spring-levels"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="66" x="-69.46" y="-211.65"></scrollstate>
+            <selection guid="aJn1_VicWpthoL8VYjXGgg" type="node" id="4"></selection>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="IrFx9l6-zX4zL5miLDDrXQ" x="223.89" y="339.84" text="lecture 1"></topic>
+            <topic id="1" parent="0" guid="d3dU5AxUxOtRDoJgTul-YA" x="303.99" y="137.21" text="hash"></topic>
+            <topic id="2" parent="1" guid="cWKJTWaQk-J1BL1BZGG6TQ" x="379.23" y="47.58" text="hiding"></topic>
+            <topic id="3" parent="1" guid="FLiTOjZUawY4YXH8PXHrjg" x="408.27" y="97.44" text="Collision free"></topic>
+            <topic id="4" parent="1" guid="aJn1_VicWpthoL8VYjXGgg" x="589.14" y="152.31" text="Puzzle friendly, output y,k from large, hard to find x suite y=H(k|x)"></topic>
+            <topic id="5" parent="0" guid="GZHs6koZm44Zdm1ePWhQ5g" x="370.50" y="210.21" text="merkle tree"></topic>
+            <topic id="6" parent="5" guid="WMqmfVOLG1FK-AbONrhR8w" x="548.49" y="206.56" text="Verify memership"></topic>
+            <topic id="7" parent="5" guid="dpgKJ2FHojdD1_qbGUl8HQ" x="548.49" y="248.17" text="Sorted merkle tree"></topic>
+            <topic id="8" parent="7" guid="QAZvtXcHlD1Femd6N33EmQ" x="717.11" y="284.13" text="Verify non-membership"></topic>
+            <topic id="9" parent="0" guid="A1xZKBaI6dsGZ0L6GBTsYg" x="400.53" y="337.06" text="Digital signatures"></topic>
+            <topic id="10" parent="9" guid="TN1U4T7ItPZVhtfwPj_eLg" x="556.86" y="334.60" text="GenerateKeys"></topic>
+            <topic id="11" parent="9" x="556.86" y="376.20" text="sign"></topic>
+            <topic id="12" parent="9" guid="JVlI2EqLlTIioZh7DfM-1Q" x="556.86" y="417.81" text="verify"></topic>
+            <topic id="13" parent="9" guid="IyfvzQRCV5FwKQVXPLncuA" x="556.86" y="459.41" text="Requirement 1:Easy to sign and verify"></topic>
+            <topic id="14" parent="9" guid="DqYOmS3mcoxr6ypVdUIeFw" x="570.66" y="515.49" text="Requirement2 : sign1\Ncan't find sign2"></topic>
+            <topic id="15" parent="9" guid="TlvzHwmfcrV6Ii2eJyaZnA" x="570.66" y="565.32" text="ecdsa"></topic>
+            <topic id="16" parent="0" guid="XSqOB0UaNGxd3uuPU8KYLg" x="447.31" y="568.44" text="Public key as identity"></topic>
+            <topic id="17" parent="0" guid="JmHWpCG25iptDBRLZmhGWQ" x="103.89" y="599.65" text="Simple coin"></topic>
+            <topic id="18" parent="17" guid="SQ9loCRNTe00L7_yFey6gg" x="42.66" y="644.68" text="1 Create coin"></topic>
+            <topic id="19" parent="17" guid="GL56ZzKGe8Ud5grzHBrTkA" x="151.05" y="685.11" text="2 Pay to others"></topic>
+            <topic id="20" parent="17" guid="YxYC4wm2l-NULJiwCG9LvA" x="326.26" y="682.17" text="Double-spending attack"></topic>
+            <topic id="21" parent="0" guid="VEItFXbOMSwWYoqRd2oc4g" x="64.80" y="397.77" text="Simple coin2"></topic>
+            <topic id="22" parent="21" guid="exCIvQaLj-k0I_maSWx73A" x="-65.58" y="445.25" text="Pushlish all\Nhistory of trans"></topic>
+            <topic id="23" parent="22" guid="ECsCni5GJzlwkxV4bVWQpQ" x="-174.87" y="491.62" text="Allows to\Ndouble\Nspending"></topic>
+            <topic id="24" parent="22" guid="c2BbpU5yAQdBGCjTGcIySQ" x="-174.87" y="549.68" text="Transaction valid"></topic>
+            <topic id="25" parent="24" x="-226.42" y="598.93" text="Valid coins"></topic>
+            <topic id="26" parent="24" guid="cCjnMi4kPR4AKnijCOdhmQ" x="-104.97" y="603.46" text="Not consumed"></topic>
+            <topic id="27" parent="24" guid="YKq45B4Qg5YlAjUpKboehA" x="-95.63" y="676.52" text="Total input ==\Ntotal output"></topic>
+            <topic id="28" parent="24" guid="Ql3Rg1kx9Rw_ptkGJXPUZg" x="-229.96" y="678.52" text="Signed by owners of"></topic>
+            <topic id="29" parent="22" guid="YuiM_xPTcbct4yAiNyq6FA" x="-187.17" y="331.31" text="Trust "></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

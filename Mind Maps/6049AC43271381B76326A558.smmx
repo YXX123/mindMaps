@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="6049AC43271381B76326A558"></guid>
+            <title text="p2p"></title>
+            <style key="system.bright-palette"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="100" x="-124.48" y="357.62"></scrollstate>
+            <selection guid="XJERSmW8wM4YQgT8IoMtUg" type="node" id="36"></selection>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="aeeFPVuhtqplQFqsMJ7yBg" x="203.10" y="293.02" palette="1" colorinfo="1" text="p2p"></topic>
+            <topic id="1" parent="0" guid="AFXtdzdyqE8VJY1oEO-oSQ" x="276.12" y="185.56" palette="2" colorinfo="2" text="entities"></topic>
+            <topic id="2" parent="1" guid="dB2GcRvIsRVB0h6IW937-Q" x="306.56" y="56.74" text="autonomous/programable"></topic>
+            <topic id="3" parent="1" guid="AFpYnxoBVxNDHtQXF8rmkw" x="340.80" y="98.34" text="Failure-prone"></topic>
+            <topic id="4" parent="1" guid="LPGDalTQa_MIYyxpR5my8g" x="479.41" y="79.60" text="Communicate in\Nunreliable medium"></topic>
+            <topic id="5" parent="1" guid="QF3TOlHtsJNB8oPRRdjSOw" x="398.98" y="151.75" text="asynchronous"></topic>
+            <topic id="6" parent="0" guid="Tlw3i3_DFFk5EufJO6TtJg" x="322.39" y="254.26" palette="3" colorinfo="3" text="better"></topic>
+            <topic id="7" parent="6" guid="YAzAnGAmaYEey5J-SfRF2g" x="402.88" y="208.52" text="Central fail"></topic>
+            <topic id="8" parent="6" guid="K4F2Xg7f1HQLehfkK9vO_g" x="482.63" y="248.36" text="Ways to solve problem"></topic>
+            <topic id="9" parent="8" guid="O8ggKwQL7Sp6kzfgPB4Nog" x="585.98" y="297.03" text="Someone offline:dial to others every day">
+                <parent-relation guid="O36VeQ-4xUlNDbXsL5wb6g"></parent-relation>
+            </topic>
+            <topic id="10" parent="8" guid="KOErh06Y6_tDprWRVdKu8g" x="582.13" y="340.27" text="MST: 最小拓展树：minimum spanning tree"></topic>
+            <topic id="11" parent="8" x="588.05" y="391.70" text="场景1:节点失效"></topic>
+            <topic id="12" parent="8" guid="I2lX7kwJ4fsdbGHkY8crKA" x="592.97" y="443.79" text="场景2 ：网络失效"></topic>
+            <topic id="13" parent="6" guid="HfeSjl9e5bYpn_1jbFPKGQ" x="456.26" y="533.44" text="gossip protocol,每个节点保留一些其他节点的路由"></topic>
+            <topic id="14" parent="0" guid="XyH6D2Ky5Swn-LdAPy66rA" x="122.82" y="363.01" palette="4" colorinfo="4" text="types of faults"></topic>
+            <topic id="15" parent="14" guid="QtlOrUbESb4JIwCGfqFu2Q" x="55.73" y="296.56" text="Fail-stop / crash failure"></topic>
+            <topic id="16" parent="14" guid="StA26QO2OGY6v3x7Bk7MYg" x="4.21" y="420.75" text="Byzantine failure"></topic>
+            <topic id="17" parent="14" guid="E279rwfNMmc16uhNPvB0Dg" x="-11.12" y="475.19" text="FLP ， fault tolerance(up to n failure nodes) -\Nliveness(produce a result) - safety(valid identical)"></topic>
+            <topic id="18" parent="17" guid="Fq0G20FlADFqzEMMP44yYw" x="-80.41" y="533.22" text="异步容错系统不可能同时实现产出一个结果，并且是正确的"></topic>
+            <topic id="19" parent="14" guid="D_3sLC5y-J0VYOFVM2dEGg" x="-55.44" y="580.98" text="CAP"></topic>
+            <topic id="20" parent="19" guid="enzamDLNQzkXLm9CGHRtJg" x="-146.91" y="616.01" text="一致性"></topic>
+            <topic id="21" parent="19" x="-154.51" y="665.89" text="可用性"></topic>
+            <topic id="22" parent="19" guid="Eiwo70DObKUEyDdAcU4i_w" x="-160.62" y="717.18" text="分区容忍性"></topic>
+            <topic id="23" parent="0" guid="I4FR0SzA7oAwfN2rZlqgfw" x="118.42" y="626.52" palette="5" colorinfo="5" text="sybil攻击"></topic>
+            <topic id="24" parent="0" guid="c4U4Pjmf3jFk_A9YPlVvJw" x="243.91" y="626.33" palette="6" colorinfo="6" text="time attacks"></topic>
+            <topic id="25" parent="0" guid="PVYWlx-7i9NEpDuKUMUURw" x="85.69" y="758.68" palette="7" colorinfo="7" text="history"></topic>
+            <topic id="26" parent="25" guid="J4i-O3qPI9cPtYhVPjXFFg" x="-2.84" y="733.96" text="Nasper"></topic>
+            <topic id="27" parent="25" guid="O_QkCHqBy2F9w_d5S_IQNA" x="-6.84" y="779.80" text="gnutella"></topic>
+            <topic id="28" parent="25" guid="KPTD_hMk2M5_WVROI3Gelw" x="-3.33" y="836.57" text="DHT"></topic>
+            <topic id="29" parent="28" guid="RfIcCBaHw5A75gu9WB5E9w" x="-54.82" y="881.62" text="去中心的"></topic>
+            <topic id="30" parent="28" x="-59.85" y="933.63" text="容忍错误"></topic>
+            <topic id="31" parent="28" guid="V1YwNUCuQv1JbGf2eteCBg" x="-63.58" y="986.29" text="可规模化的"></topic>
+            <topic id="32" parent="25" guid="bW8xfXnpRaFhMiKFYPRpvA" x="120.04" y="849.15" text="bittorrent"></topic>
+            <topic id="33" parent="32" guid="M4kj0kYuMd0fSdjjcN86ag" x="87.74" y="890.96" text="ipfs"></topic>
+            <topic id="34" parent="33" guid="Zem9sWPuFG1BpE6xDXJ77A" x="85.66" y="939.91" text="swarm">
+                <parent-relation guid="Xn04RFFZ1wZLqEECGnFcTA"></parent-relation>
+            </topic>
+            <topic id="35" parent="34" guid="S9uiZ0lsOHxmY2yAdNBmZQ" x="65.61" y="989.71" text="devp2p"></topic>
+            <topic id="36" parent="35" guid="XJERSmW8wM4YQgT8IoMtUg" x="42.65" y="1046.72" text="Kademlia DHT "></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="5A6326A4392C44A618089C06"></guid>
+            <title text="programing languages"></title>
+            <style key="system.spring-levels"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="114" x="118.96" y="30.96"></scrollstate>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="Dv9HJVU2oo9HRPvSOJPsIQ" x="289.14" y="389.47" text="programing languages"></topic>
+            <topic id="1" parent="0" x="409.14" y="129.66" text="https://learn.saylor.org/mod/page/view.php?id=15501"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

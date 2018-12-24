@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.21.0">
+    <mindmap>
+        <meta>
+            <guid guid="3AC0F3CB2A70BFBE5927B7E2"></guid>
+            <title text="Overview of consensus protocols"></title>
+            <style key="system.bright-palette"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="100" x="39.42" y="58.35"></scrollstate>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="B7gDMVnbz2tY8j5TX7ChVw" x="336.93" y="336.45" palette="1" colorinfo="1" text="Overview of consensus protocols   "></topic>
+            <topic id="1" parent="0" x="497.03" y="206.29" palette="5" colorinfo="5" text="three QA"></topic>
+            <topic id="2" parent="1" guid="CZ3Y-jSONPMCGbVURrdsyQ" x="577.91" y="157.53" text="如何知道你真的获得报酬：钞票防伪,数字货币签名">
+                <parent-relation guid="JLQ2zFIyTaNkhptiEJm60g"></parent-relation>
+            </topic>
+            <topic id="3" parent="1" guid="Ge2XujLkAs9Dd7-pbb8WjQ" x="363.61" y="123.00" text="（现金）谁创造货币，限制货币：fed">
+                <parent-relation guid="PKreIgajI60w4nY-Z8B1iA"></parent-relation>
+            </topic>
+            <topic id="4" parent="1" guid="cNouoiJ5G7sz2Wwpdd3vvQ" x="456.93" y="76.65" text="谁可以阻止你的交易吗：NO">
+                <parent-relation guid="ZJGnilgvOItnQNgdF3CN9A"></parent-relation>
+            </topic>
+            <topic id="5" parent="0" guid="EvAsVxGxl9xwmEXWGqgviA" x="218.20" y="414.31" palette="2" colorinfo="2" text="three steps"></topic>
+            <topic id="6" parent="5" guid="a41nR0mKhCl6WNDfBXr_AQ" x="151.22" y="458.23" text="Fed still create supply-limited coins"></topic>
+            <topic id="7" parent="5" x="145.05" y="507.71" text="Any one can\Nsubmit to NY times"></topic>
+            <topic id="8" parent="5" guid="fG6G-D3QkIhzOhWObUi1mw" x="145.05" y="557.54" text="Double-spend ignored"></topic>
+            <topic id="9" parent="0" x="606.93" y="336.45" palette="3" colorinfo="3" text="dadasd124123"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>
